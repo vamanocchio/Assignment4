@@ -19,7 +19,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        android:textSize="30sp" />
 
     <TextView
         android:id="@+id/TVsynant"
@@ -36,7 +37,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        android:textSize="30sp" />
 
     <Button
         android:id="@+id/bSubmit"
